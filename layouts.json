@@ -1,0 +1,6 @@
+{
+    "top-right": { "x": 960, "y": 0, "width": 960, "height": 540 },
+    "bottom-left": { "x": 0, "y": 540, "width": 960, "height": 540 },
+    "top-left": { "x": 0, "y": 0, "width": 960, "height": 540 },
+    "bottom-right": { "x": 960, "y": 540, "width": 960, "height": 540 }
+}
