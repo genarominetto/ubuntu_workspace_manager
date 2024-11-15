@@ -1,8 +1,9 @@
 {
     "3": [
-        { "command": "code", "layout": "top-right" }
+        { "command": "code", "layout": "maximized" },
+        { "command": "firefox", "layout": "top-left" }
     ],
     "4": [
-        { "command": "firefox", "layout": "top-right" }
+        { "command": "firefox", "layout": "top-left" }
     ]
 }

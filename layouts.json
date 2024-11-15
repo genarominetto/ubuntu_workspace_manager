@@ -1,6 +1,56 @@
 {
-    "top-right": { "x": 960, "y": 0, "width": 960, "height": 540 },
-    "bottom-left": { "x": 0, "y": 540, "width": 960, "height": 540 },
-    "top-left": { "x": 0, "y": 0, "width": 960, "height": 540 },
-    "bottom-right": { "x": 960, "y": 540, "width": 960, "height": 540 }
+    "top-left": {
+        "x": -20,
+        "y": 12,
+        "width": 1000,
+        "height": 547
+    },
+    "top-right": {
+        "x": 940,
+        "y": 12,
+        "width": 1000,
+        "height": 547
+    },
+    "bottom-left": {
+        "x": -20,
+        "y": 519,
+        "width": 1000,
+        "height": 547
+    },
+    "bottom-right": {
+        "x": 940,
+        "y": 519,
+        "width": 1000,
+        "height": 547
+    },
+    "left": {
+        "x": -20,
+        "y": 12,
+        "width": 960,
+        "height": 1080
+    },
+    "right": {
+        "x": 960,
+        "y": 12,
+        "width": 960,
+        "height": 1080
+    },
+    "top": {
+        "x": -20,
+        "y": 12,
+        "width": 1920,
+        "height": 540
+    },
+    "bottom": {
+        "x": -20,
+        "y": 540,
+        "width": 1920,
+        "height": 540
+    },
+    "maximized": {
+        "x": -20,
+        "y": 12,
+        "width": 1920,
+        "height": 1080
+    }
 }
