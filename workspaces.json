@@ -1,10 +1,8 @@
 {
-    "4": [
-        { "command": "code", "layout": "top-right" },
-        { "command": "gnome-terminal", "layout": "bottom-left" }
+    "3": [
+        { "command": "code", "layout": "top-right" }
     ],
-    "5": [
-        { "command": "firefox", "layout": "top-left" },
-        { "command": "nautilus", "layout": "bottom-right" }
+    "4": [
+        { "command": "firefox", "layout": "top-right" }
     ]
 }
