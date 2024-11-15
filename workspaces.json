@@ -1,9 +1,9 @@
 {
-    4: [
+    "4": [
         { "command": "code", "layout": "top-right" },
         { "command": "gnome-terminal", "layout": "bottom-left" }
     ],
-    5: [
+    "5": [
         { "command": "firefox", "layout": "top-left" },
         { "command": "nautilus", "layout": "bottom-right" }
     ]
